@@ -23,4 +23,4 @@ spec:
         - containerPort: 3000
         resources:
           requests:
-            cpu: "100m"  # Solicitud base de 100 mili-cores
+            cpu: "100m"
